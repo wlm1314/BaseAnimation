@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BAnim_FilpLibrary/BAnim_FilpLibrary.iml" filepath="$PROJECT_DIR$/BAnim_FilpLibrary/BAnim_FilpLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BAnim_ListViewLibrary/BAnim_ListViewLibrary.iml" filepath="$PROJECT_DIR$/BAnim_ListViewLibrary/BAnim_ListViewLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BAnimation/app.iml" filepath="$PROJECT_DIR$/BAnimation/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaseAnimation.iml" filepath="$PROJECT_DIR$/BaseAnimation.iml" />
+    </modules>
+  </component>
+</project>
